@@ -6,9 +6,9 @@ Kuberntes Installation is in three steps
 
 You can perform this operation by by running following script 
 
-Coomand : `sh ./k8-install-ubuntu.sh  "Kubernetes-version"`
+Command : `sh ./k8-install-ubuntu.sh  "Kubernetes-version"`
 
-Coomand : `sh ./k8-install-ubuntu.sh "1.18.5-00"`
+Command : `sh ./k8-install-ubuntu.sh "1.18.5-00"`
 
 # Step2 : Init Kubeadmin in master and setup Network 
 Run following commands in master node to init and setup CNI , Scroll and Copy kube admin join comamnds for Next step
